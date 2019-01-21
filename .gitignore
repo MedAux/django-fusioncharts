@@ -1,0 +1,19 @@
+*.egg-info
+*.pot
+*.py[co]
+.Python
+.tox/
+*.cfg
+*.log
+*.bak
+*.dat
+*.dir
+*.pid
+# redis binary dump files
+*.rdb
+__pycache__
+MANIFEST
+dist/
+/src/
+*.sw*
+*.pem
